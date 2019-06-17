@@ -4,7 +4,7 @@ Independent Python Plugins
 
 Simple easy to import functions for Python
 
-# P73c_Tesxting.py
+# P73c_Texting.py
 
 
 Files:  
