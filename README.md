@@ -4,7 +4,8 @@ Independent Python Plugins
 
 Simple easy to import functions for Python
 
-Plugins:
+Plugins
+
 | Plugin  	| Version         |
 | ------------- |:---------------:|
 | Texting       | June 2019 0.0.2 | 
