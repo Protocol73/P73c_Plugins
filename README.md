@@ -5,6 +5,7 @@ Independent Python Plugins
 Simple easy to import functions for Python
 
 
+
 | Plugin  	| Version         | Link 										|
 | ------------- |:---------------:| [Readme.md](https://github.com/Protocol73/P73c_Plugins "Ver 0.0.2") 		|
 | Texting       | June 2019 0.0.2 | [June 2019](https://github.com/Protocol73/P73c_Plugins#p73c_textingpy "Ver 0.0.2")	|
