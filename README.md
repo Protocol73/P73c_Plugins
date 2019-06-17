@@ -14,13 +14,11 @@ Simple easy to import functions for Python
 	
 
 ## P73c_Texting.py
-
+[Set login for Gmail in .cfg]
 Files:  
 
 	P73c_Texting.py
 	P73c_Texting.cfg
-
-Reminder: [Set login for Gmail in .cfg]
 
 
 ```python
