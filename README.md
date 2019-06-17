@@ -12,7 +12,7 @@ Files:
 	P73c_Texting.py
 	P73c_Texting.cfg
 
-[Reminder: Set login for Gmail in .cfg]
+Reminder: [Set login for Gmail in .cfg]
 
 To import:
 
@@ -24,3 +24,4 @@ Funtion use:
 	carrier = 'AT&T' 
 	
 	P73c_Text.SendText(Phone_number,carrier,message)
+SMS Gateway's are pulled from the config file.
