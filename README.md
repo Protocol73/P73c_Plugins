@@ -9,8 +9,8 @@ Simple easy to import functions for Python
 
 Files:  
 
-		P73c_Texting.py
-		P73c_Texting.cfg
+	P73c_Texting.py
+	P73c_Texting.cfg
 
 [Reminder: Set login for Gmail in .cfg]
 
