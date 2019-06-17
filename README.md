@@ -6,8 +6,8 @@ Simple easy to import functions for Python
 
 
 
- Plugin        | Version         | Link 										
- ------------- |---| ---		
+ Plugin| Version | Link 										
+   --- |---------| ---		
  Texting       | June 2019 | [June 2019](https://github.com/Protocol73/P73c_Plugins#p73c_textingpy "Ver 0.0.2")	
  N.Y.W         |   N.Y.W         | 											
 
