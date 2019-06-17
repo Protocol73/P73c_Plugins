@@ -4,9 +4,15 @@ Independent Python Plugins
 
 Simple easy to import functions for Python
 
+Plugins:
+| Plugin  	| Version         |
+| ------------- |:---------------:|
+| Texting       | June 2019 0.0.2 | 
+| N.Y.W         |   N.Y.W         |
+
+	
 
 ## P73c_Texting.py
-
 
 Files:  
 
