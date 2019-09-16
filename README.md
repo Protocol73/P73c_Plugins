@@ -7,7 +7,7 @@ Simple easy to import functions for Python
 
 
  Plugin| Version | Link | Files | 								
-   --- |---------| ---		
+   --- |---------| ----	| ----	|
  Texting       | June 2019 | [June 2019](https://github.com/Protocol73/P73c_Plugins/tree/master/P73c_Texting "Ver 0.0.2") | 2 |	
  N.Y.W         |   N.Y.W         | 	N.Y.W |										
 
