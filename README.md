@@ -14,7 +14,7 @@ Simple easy to import functions for Python
 	
 
 ## P73c_Texting.py 
-`[Set login for Gmail in .cfg]`
+`[Set login for Gmail in Texting.cfg]`
 
 Files:  
 
