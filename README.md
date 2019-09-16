@@ -2,7 +2,7 @@
 Independent Python Plugins
 
 
-Simple easy to import functions for Python
+Simple & easy to import functions for Python
 
 
 
