@@ -6,20 +6,15 @@ Simple easy to import functions for Python
 
 
 
- Plugin| Version | Link 										
+ Plugin| Version | Link | Files | 								
    --- |---------| ---		
- Texting       | June 2019 | [June 2019](https://github.com/Protocol73/P73c_Plugins/tree/master/P73c_Texting "Ver 0.0.2")	
- N.Y.W         |   N.Y.W         | 											
+ Texting       | June 2019 | [June 2019](https://github.com/Protocol73/P73c_Plugins/tree/master/P73c_Texting "Ver 0.0.2") | 2 |	
+ N.Y.W         |   N.Y.W         | 	N.Y.W |										
 
 	
 
 ## P73c_Texting.py 
 `[Set login for Gmail in Texting.cfg]`
-
-Files:  
-
-	P73c_Texting.py
-	P73c_Texting.cfg
 
 
 ```python
