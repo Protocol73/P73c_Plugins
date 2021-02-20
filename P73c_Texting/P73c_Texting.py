@@ -44,10 +44,11 @@ def SMTP_Send(Message,Phone_email):#Don't Call this.
 		server.sendmail(fromaddr,Phone_email,Message)
 		return 0
 	except SMTPException:
+		print("=== FAILED TO SEND ===")
 		return 1
 	server.quit()
 #=====================================================
-def SendText(Ph_num,set_Carrier,Message):
+def Texting(Ph_num,set_Carrier,Message):
 	Carrier = cfg_settings.get('Gateway',set_Carrier)
 	Phone_email = Ph_num + Carrier
 	SMTP_Send(Message,Phone_email)
@@ -57,7 +58,7 @@ def main():
 	print(' -- Plugin writen by Protocol73 --')
 	print(' == Not for stand-alone usage == \n')
 	print('   Only run to test your cfg...') 
-	print('  Enter TO: # without ANY spacing.')
+	print('  Enter Number without ANY spacing.')
 	print('='* 37)
 	#-------------------------------------------------
 	Phone_number = input("Phone Number#:")
@@ -65,7 +66,7 @@ def main():
 	Carrier = input("[See CFG]Send via:")
 	Texting(Phone_number,Carrier,Message)
 	print('If you recive "',Message,'" at:',Phone_number)
-	print('This Plugin is working')
+	print('This Plugin is working, your config is good.')
 #=====================================================
 
 if __name__ == '__main__':
